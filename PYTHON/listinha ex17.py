@@ -1,0 +1,5 @@
+####### GRAUS PARA RADIANUS ########
+
+graus = float(input("DIGITE O ANGULO EM GRAUS PARA CONVERTEMOS PARA RADIANUS: "))
+r = graus * 3.14 / 180
+print(f" O ANGULO CONVERTIDO EM RADIANUS É {r}")

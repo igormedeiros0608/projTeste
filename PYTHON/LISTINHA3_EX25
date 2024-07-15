@@ -1,0 +1,5 @@
+lista = []
+idade = float(input(" digite uma idade para fazermos a media, para parar digite 0: " ))
+if idade < 0:
+    lista.append(idade)
+print(lista)
